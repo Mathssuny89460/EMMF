@@ -1,0 +1,87 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ❤ EACM ❤ </title>
+    <link href="https://www.youtube.com/watch?v=-aErzz-5zfI"stylesheet">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f2f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcccb;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #d5006d;
+            font-family: 'Arial', cursive; /* Fuente para el título */
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #d5006d;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #d5006d;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffcccb;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .card {
+            background: #ffe6f2;
+            border: 1px solid #d5006d;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> Elvis Alexander Cespedes Melgar ❤</h1>
+        <h2> FELIZ ANIVERSARIO N° 1095 Dias..❤ </h2>
+    </header>
+    <section>
+        <div class="verso">
+            
+            <p>	Como es curiosos que despues de una amistad de 5 años, un dia como hoy 04/11/2021 te declaraste arriesgandote sin saber que te diria un " Si quiero ser tu novia" y hoy Celebramos 3 años juntos, son 3 años que compartimos alegrias, tristezas, 3 años que compartimos nuestras vidas, apesar de las peleas espero que sigamos creando recuerdos hermosos seguir enfrentando juntos todo lo que la vida nos prepare en un presente o en un futuro, o hasta que la vida nos de para poder estar juntos,Como dijo uno de mis poetas favoritos Charles Bukowski. "Cariño. Encuentra lo que amas y deja que te mate. Deja que tome todo de ti. Deja que se suba a tu espalda y te haga bajar hacia la nada.Deja que te mate y que devore tus restos. Porque todo te matará y es mejor ser matado por algo que quieres." y encontre quien me puede matar en vida. Aun que se escuche o se lea muy cursi quiero que seas el hombre que Dios planeo para mi. </p>
+			
+        </div>
+		<div class="verso">
+            
+            <p>	Es por ello que quiero escribir lo que siento, algo que nisiquiera te imagines . Quiero besarte,abrazarte, mirarte, quiero tantas cosas,  quiero verte a los ojos 30, 40, 50 o 60 años y no recordar por lo que un dia termino si no mirarte y tenerte por lo que sucedio. Te amo sin saber cómo, ni cuándo, ni de dónde, te amo directamente sin problemas sin condicion, ni orgullo. https://www.youtube.com/watch?v=-aErzz-5zfI</p>
+        </div>
+        <img src=" https://photos.app.goo.gl/3pPxsu172e1wCcKFA " alt="Imagen">
+     
+    </section>
+    <footer>
+        <p>&copy; 04/10/2024..❤ </p>
+		<p>&copy; EACM & EMMF ❤ </p>
+		<p>&copy;  Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
